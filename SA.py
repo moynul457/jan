@@ -167,14 +167,14 @@ def lovehacker():
 
 	elif Choose == 2:
 		print
-		BlackMafia(C+'Facebook group '+W+' ...')
+		BlackMafia(C+'daran vai tumer gf astese '+W+' ...')
 		time.sleep(1.5)
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426 ')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100069384973642 ')
 		lovehacker()
 	
 	elif Choose == 3:
 		print
-		BlackMafia(C+'Facebook ID'+W+' ...')
+		BlackMafia(C+'coming your bf'+W+' ...')
 		time.sleep(1.5)
 		os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
 		lovehacker()
