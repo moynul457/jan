@@ -155,8 +155,8 @@ def lovehacker():
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	print
         print(W+'['+H+'1'+W+']'+C+' Start Instagram Hacking')
-	print(W+'['+H+'2'+W+']'+C+' join my group THCB')
-	print(W+'['+H+'3'+W+']'+C+' WhatsApp Group')
+	print(W+'['+H+'2'+W+']'+C+' GF hacking')
+	print(W+'['+H+'3'+W+']'+C+' BF hacking')
 	print
 	BlackMafia(W+20 * '\xE2\x95\x90\xE2\x95\x90')
 	print
